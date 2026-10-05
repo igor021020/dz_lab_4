@@ -25,7 +25,7 @@ graph TD
     SetResult0 --> Output
 
     Output --> End((Конец))
-###2. Реализация программы
+## #2. Реализация программы
     Output --> End((Конец))
 #include <stdio.h>
 #include <locale.h>
