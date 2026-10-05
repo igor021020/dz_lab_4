@@ -23,6 +23,8 @@ graph TD
 
     SetResult1 --> Output[/Вывод result/]
     SetResult0 --> Output
+
+    Output --> End((Конец))
 ###2. Реализация программы
     Output --> End((Конец))
 #include <stdio.h>
