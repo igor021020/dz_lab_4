@@ -12,7 +12,6 @@
 
 ### Блок-схема
 
-```mermaid
 graph TD
     Start((Начало)) --> InputA[/Ввод A/]
     InputA --> InputB[/Ввод B/]
