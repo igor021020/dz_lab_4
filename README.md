@@ -11,8 +11,7 @@
 5. Конец
 
 ### Блок-схема
-
-
+```mermarid
     Start((Начало)) --> InputA[/Ввод A/]
     InputA --> InputB[/Ввод B/]
     InputB --> Condition{A%2 != B%2?}
@@ -24,8 +23,9 @@
     SetResult0 --> Output
 
     Output --> End((Конец))
-
+```
 #2. Реализация программы
+```c
 #include <stdio.h>
 #include <locale.h>
 #define _CRT_SECURE_NO_WARNINGS
@@ -45,6 +45,7 @@ void main() {
     result = ((A % 2 == 0) ^ (B % 2 == 0));
 
     printf("Результат (1 - кофе готовится, 0 - кофе не готовится): %d", result);
+```
 
 
 #3. Результаты работы программы
