@@ -12,7 +12,7 @@
 
 ### Блок-схема
 
-graph TD
+
     Start((Начало)) --> InputA[/Ввод A/]
     InputA --> InputB[/Ввод B/]
     InputB --> Condition{A%2 != B%2?}
