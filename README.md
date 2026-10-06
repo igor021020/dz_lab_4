@@ -11,7 +11,8 @@
 5. Конец
 
 ### Блок-схема
-<img width="203" height="532" alt="лаба 4 3 drawio" src="https://github.com/user-attachments/assets/598657cb-87f3-4a9e-ba6c-f7519efb8417" />
+<img width="203" height="532" alt="лаба 4 4 drawio" src="https://github.com/user-attachments/assets/4b2dfa98-d49a-4f54-a7c7-49dcc698ec79" />
+
 
 
 
