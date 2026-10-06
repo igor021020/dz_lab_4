@@ -11,7 +11,8 @@
 5. Конец
 
 ### Блок-схема
-<img width="203" height="532" alt="лаба 4 2 drawio" src="https://github.com/user-attachments/assets/73b70ae9-7ad4-4948-8616-22e1eb750015" />
+<img width="203" height="532" alt="лаба 4 3 drawio" src="https://github.com/user-attachments/assets/598657cb-87f3-4a9e-ba6c-f7519efb8417" />
+
 
 
 ```mermarid
