@@ -11,7 +11,8 @@
 5. Конец
 
 ### Блок-схема
-<img width="662" height="1142" alt="лаба 4 drawio" src="https://github.com/user-attachments/assets/56429086-2b71-43ef-aa9a-f53874c9550e" />
+<img width="203" height="532" alt="лаба 4 2 drawio" src="https://github.com/user-attachments/assets/73b70ae9-7ad4-4948-8616-22e1eb750015" />
+
 
 ```mermarid
     Start((Начало)) --> InputA[/Ввод A/]
